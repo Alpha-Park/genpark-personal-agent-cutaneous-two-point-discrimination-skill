@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-cutaneous-two-point-discrimination-skill",
+  "version": "1.0.0",
+  "description": "Deterministic personal agent skill for evaluating static and moving cutaneous two-point discrimination (2PD in mm), Merkel/Meissner spatial receptive density, and peripheral nerve health.",
+  "author": "GenPark Autonomous Agents Ecosystem",
+  "license": "MIT",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ],
+  "entrypoint": "mcp_server.py"
+}
